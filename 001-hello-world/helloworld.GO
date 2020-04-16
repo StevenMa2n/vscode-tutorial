@@ -8,16 +8,5 @@ func main()  {
 	fmt.println("some chanhged");
 }
 
-// kdscps 
+// kdscps sds
 
-
-
-/* josdfalsf
-asdfasdf
-asdfasdf
-asdfasdf
-
-
-
-
- */
